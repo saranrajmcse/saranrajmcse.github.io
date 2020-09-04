@@ -8,8 +8,10 @@
 
 /*===== Colores =====*/
 :root{
-  --first-color: #4070F4;
+  --first-color: #2b77f1;
   --second-color: #000000bb;
+  --third-color: #000000;
+  --fourth-color: #484849a6;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -57,6 +59,7 @@ body{
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  
 }
 h1,h2,p{
   margin: 0;
@@ -133,11 +136,13 @@ img{
     position: fixed;
     top: var(--header-height);
     right: -100%;
-    width: 80%;
+    width: 65%;
     height: 100%;
     padding: 2rem;
-    background-color: var(--second-color);
+    background-color: rgba(255,255,255,.3);
+    backdrop-filter: blur(10px);
     transition: .5s;
+    
   }
 }
 .nav__item{
@@ -145,7 +150,7 @@ img{
 }
 .nav__link{
   position: relative;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 .nav__link:hover{
   position: relative;
@@ -347,7 +352,7 @@ img{
 
 /* ===== FOOTER =====*/
 .footer{
-  background-color: var(--second-color);
+  background-color: var(--third-color);
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
