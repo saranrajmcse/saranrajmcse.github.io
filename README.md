@@ -2,9 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=msraj&style=for-the-badge&url=https%3A%2F%2Fmsraj.in)](https://msraj.in)
 
-[website]: http://msraj.c1.biz
-
-### Links:
+### Projects:
 <a href="https://msraj.in">msraj.in</a>
 <br />
 <a href="/ResponsiveNavbar">Responsive Nav bar</a>
