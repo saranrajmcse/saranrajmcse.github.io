@@ -45,7 +45,7 @@
 [linkedin]: https://www.linkedin.com/in/saran-raj-m-8919511a1
 
 ### Links:
-<a href="msraj.in">msraj.in</a>
+<a href="https://msraj.in">msraj.in</a>
 <br />
-<a href="saranrajmcse.github.io/ResponsiveNavbar">Responsive Nav bar</a>
+<a href="/ResponsiveNavbar">Responsive Nav bar</a>
 <br />
