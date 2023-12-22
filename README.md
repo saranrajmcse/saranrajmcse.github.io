@@ -4,7 +4,7 @@
 
 ### Projects:
 <ul>
-  <li><a href="https://msraj.in">msraj.in</a><p>- Personnel Website</p></li>
+  <li><a href="https://msraj.in">msraj.in</a><p>- Personal Website</p></li>
   <li><a href="/ResponsiveNavbar">Responsive Nav bar</a><p>- Responsive Multi-Level Navigation Menus using jolty.dev </p></li> 
 </ul>
 
