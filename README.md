@@ -1,14 +1,13 @@
 ### Hi there, I'm Saran Raj M - aka [M S RAJ][website] 👋
 
-[![Website](https://img.shields.io/website?label=msraj&style=for-the-badge&url=https%3A%2F%2Fmsraj.c1.biz)](http://msraj.c1.biz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/m_s_raj?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fm_s_raj&screen_name=m_s_raj)
+[![Website](https://img.shields.io/website?label=msraj&style=for-the-badge&url=https%3A%2F%2Fmsraj.in)](https://msraj.in)
 
-## I'm a Student,Developer and Designer!
+## I'm a Developer and Designer!
 
 - 🔭 I’m currently working on a [VS Code Course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to ArtWork Designing
 
 
@@ -49,3 +48,11 @@
 [youtube]: https://www.youtube.com/channel/UCu97iz35-KhqcplxC3KiEAA
 [instagram]: https://instagram.com/saranrajm31
 [linkedin]: https://www.linkedin.com/in/saran-raj-m-8919511a1
+
+
+
+### Links:
+<a href="msraj.in">msraj.in</a>
+<br />
+<a href="saranrajmcse.github.io/ResponsiveNavbar">Responsive Nav bar</a>
+<br />
