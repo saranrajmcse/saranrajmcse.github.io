@@ -8,6 +8,7 @@
   <li><a href="/ResponsiveNavbar">Responsive Nav bar</a><p>- Responsive Multi-Level Navigation Menus using jolty.dev </p></li> 
   <li><a href="/digitalclock">Digital Clock</a><p>- Live Digital clock </p></li> 
   <li><a href="/photoinsertframe">Photo Insert Frame</a><p>- Photo frame Inseerting in card UI </p></li> 
+    <li><a href="/neobrutalismui">Neo brutalism UI</a><p>- UI design of Neo Brutalism Theme </p></li> 
 </ul>
 
  
