@@ -16,6 +16,7 @@
     <li><a href="/Dashboard">Dashboard</a><p>- Admin Dashboard</p></li>   
     <li><a href="/Horiz">Horizontal Scroll</a><p>- Horintal Page Scroll</p></li>   
     <li><a href="/SnakeGame">Snake Game</a><p>- Simple Snake Game Using JavaScript</p></li>   
+        <li><a href="/HVScroll">HV Scroll</a><p>- Simple Snake Game Using JavaScript</p></li>   
 </ul>
 
  
