@@ -14,6 +14,8 @@
     <li><a href="/AnimCirclesLogin">Animated Circles Login</a><p>- Login form with Animated Circles Background</p></li>
     <li><a href="/MechanicalDance">Mechanical Dance</a><p>- Login form with Animated Mechanical dance Background</p></li>  
     <li><a href="/Dashboard">Dashboard</a><p>- Admin Dashboard</p></li>   
+    <li><a href="/Horiz">Horizontal Scroll</a><p>- Horintal Page Scroll</p></li>   
+    <li><a href="/SnakeGame">Snake Game</a><p>- Simple Snake Game Using JavaScript</p></li>   
 </ul>
 
  
